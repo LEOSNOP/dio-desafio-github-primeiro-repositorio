@@ -1,0 +1,6 @@
+git add . ou git add -m 
+serve para adicionar todos os arquivos ao controle de versao 
+
+git commit -m : serve para comitar os arquivos para mandar eles para nuvem
+
+git push origin main: manda todos os comits locais para nuvem 
